@@ -1,11 +1,3 @@
-# Sort Algorithms:
-# 1. Bubble Sort
-# 2. Selection Sort
-# 3. Insertion Sort
-# 4. Merge Sort
-# 5. Quick Sort
-# 6. Heap Sort
-
 # 1. Bubble Sort:
 # Bubble sort is a simple sorting algorithm that works
 # by repeatedly swapping the adjacent elements if they are in wrong order.
